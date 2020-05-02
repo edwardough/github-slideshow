@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I wonder how this will be displayed??? This used to be 'Your text'
+## Look at me go using Markdown
 Use the left arrow to go back!
